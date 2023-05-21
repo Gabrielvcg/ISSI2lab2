@@ -204,3 +204,16 @@ Click on Collections folder and you will find a set of requests with tests for a
 * Express docs: https://expressjs.com/
 * Sequelize docs: https://sequelize.org/master/manual/getting-started.html
 * ThunderClient: https://www.thunderclient.io/
+
+
+
+Proyecto de la solución:
+https://github.com/IISSI2-IS-2022-2023/DeliverUS-Owner-Monorepo-SimulacroEvaluacion/tree/solution
+- Para ver las incorporaciones al código directamente: https://github.com/IISSI2-IS-2022-2023/DeliverUS-Owner-Monorepo-SimulacroEvaluacion/commit/bb19f3297cc96416d076831db381878a5ee78f0a
+EXAMENES AÑOS ANTERIORES
+Backend:
+https://github.com/IISSI2-IS-profs/laboratory-exam-backend-solutions
+
+Frontend: 
+https://github.com/IISSI2-IS-profs/laboratory-exam-frontend-solutions
+
